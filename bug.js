@@ -1,0 +1,1 @@
+This bug occurs when using the Expo Go app to test a React Native application that uses AsyncStorage.  The app might crash or behave erratically, especially during the initial app load or after clearing AsyncStorage. The error messages might be vague or not directly point to AsyncStorage.
